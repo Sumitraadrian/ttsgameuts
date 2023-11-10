@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ttsgameuts/static/css/main.f021e7c7.css",
+    "main.js": "/ttsgameuts/static/js/main.6ee2382e.js",
+    "static/js/787.a84875c0.chunk.js": "/ttsgameuts/static/js/787.a84875c0.chunk.js",
+    "index.html": "/ttsgameuts/index.html",
+    "main.f021e7c7.css.map": "/ttsgameuts/static/css/main.f021e7c7.css.map",
+    "main.6ee2382e.js.map": "/ttsgameuts/static/js/main.6ee2382e.js.map",
+    "787.a84875c0.chunk.js.map": "/ttsgameuts/static/js/787.a84875c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f021e7c7.css",
+    "static/js/main.6ee2382e.js"
+  ]
+}
