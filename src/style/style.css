@@ -1,0 +1,81 @@
+table {
+    text-align: center;
+  }
+  
+  td {
+    width: 55px;
+    height: 55px;
+  }
+  
+  td input {
+    width: 55px;
+    height: 55px;
+    text-align: center;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: bold; /* Make the input text bold */
+  }
+    
+  .p {
+    font-size: 30px;
+    font-weight: bold; /* Make the "p" element text bold */
+  }
+    
+  .pr-2 {
+    font-size: 18px;
+    font-weight: bold; /* Make the "pr-2" element text bold */
+  }
+    
+  .block {
+    background-color: #000;
+  }
+  
+  #scoreMessage {
+    font-size: 50px;
+    font-weight: bold; /* Make the "scoreMessage" element text bold */
+  }
+  
+  button {
+    background-color: #00271D !important;
+    border: 2px solid #00271D;
+    margin-top: 10px;
+    color: white;
+    font-size: 18px;
+    padding: 10px 20px;
+    width: 100%;
+    max-width: 200px;
+    margin: 5px 0;
+    font-weight: bold; /* Make the button text bold */
+  }
+  
+  .button-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+  }
+  
+  .button-wrapper button {
+    flex: 1;
+    height: auto;
+  }
+  
+  body {
+    background-color: #e0e0e0;
+  }
+  
+  .submit-button {
+    margin-top: 0;
+  }
+  
+  h1 {
+    font-size: 60px; /* Increase the font size to make it larger */
+    font-weight: bold; /* Make the text bold */
+    text-align: center;
+    margin-top: 50px; /* Adjust the top margin as needed */
+    margin-bottom: 90px; /* Adjust the bottom margin as needed */
+  }
+  .container {
+    margin-top: 40px; /* Adjust the top margin to create space below the header */
+  }
+  
